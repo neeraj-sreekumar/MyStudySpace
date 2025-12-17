@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-12-16T22:42:36 IST" name="Suite" finished-at="2025-12-16T22:44:49 IST" duration-ms="132821">
+    <groups>
+    </groups>
+    <test started-at="2025-12-16T22:42:36 IST" name="Test" finished-at="2025-12-16T22:44:49 IST" duration-ms="132821">
+      <class name="Tests.ServicesPageTest">
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:Tests.ServicesPageTest@10683d9d]" started-at="2025-12-16T22:42:36 IST" name="beforeMethod" finished-at="2025-12-16T22:42:40 IST" duration-ms="3987" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="Services()[pri:0, instance:Tests.ServicesPageTest@10683d9d]" started-at="2025-12-16T22:42:40 IST" name="Services" finished-at="2025-12-16T22:43:21 IST" duration-ms="41081" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Services -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:Tests.ServicesPageTest@10683d9d]" started-at="2025-12-16T22:43:21 IST" name="afterMethod" finished-at="2025-12-16T22:43:22 IST" duration-ms="205" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- Tests.ServicesPageTest -->
+      <class name="Tests.CoursePageTest">
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:Tests.CoursePageTest@59474f18]" started-at="2025-12-16T22:42:36 IST" name="beforeMethod" finished-at="2025-12-16T22:42:40 IST" duration-ms="3990" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="Courses()[pri:0, instance:Tests.CoursePageTest@59474f18]" started-at="2025-12-16T22:42:40 IST" name="Courses" finished-at="2025-12-16T22:43:06 IST" duration-ms="26075" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Courses -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:Tests.CoursePageTest@59474f18]" started-at="2025-12-16T22:43:06 IST" name="afterMethod" finished-at="2025-12-16T22:43:07 IST" duration-ms="252" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- Tests.CoursePageTest -->
+      <class name="Tests.HomePageTest">
+        <test-method is-config="true" signature="beforeClass()[pri:0, instance:Tests.HomePageTest@5aa9e4eb]" started-at="2025-12-16T22:42:36 IST" name="beforeClass" finished-at="2025-12-16T22:42:40 IST" duration-ms="4018" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method signature="Homepage()[pri:0, instance:Tests.HomePageTest@5aa9e4eb]" started-at="2025-12-16T22:42:40 IST" name="Homepage" finished-at="2025-12-16T22:44:21 IST" duration-ms="100652" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Homepage -->
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:Tests.HomePageTest@5aa9e4eb]" started-at="2025-12-16T22:44:21 IST" name="afterClass" finished-at="2025-12-16T22:44:21 IST" duration-ms="229" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- Tests.HomePageTest -->
+      <class name="Tests.HeaderTest">
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:Tests.HeaderTest@385c9627]" started-at="2025-12-16T22:42:51 IST" name="beforeMethod" finished-at="2025-12-16T22:42:53 IST" duration-ms="1288" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="HeaderTes()[pri:0, instance:Tests.HeaderTest@385c9627]" started-at="2025-12-16T22:42:53 IST" name="HeaderTes" finished-at="2025-12-16T22:44:01 IST" duration-ms="67853" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- HeaderTes -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:Tests.HeaderTest@385c9627]" started-at="2025-12-16T22:44:01 IST" name="afterMethod" finished-at="2025-12-16T22:44:01 IST" duration-ms="176" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- Tests.HeaderTest -->
+      <class name="Tests.FooterTest">
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:Tests.FooterTest@3fc2959f]" started-at="2025-12-16T22:42:36 IST" name="beforeMethod" finished-at="2025-12-16T22:42:40 IST" duration-ms="3992" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="Footers()[pri:0, instance:Tests.FooterTest@3fc2959f]" started-at="2025-12-16T22:42:40 IST" name="Footers" finished-at="2025-12-16T22:44:48 IST" duration-ms="127951" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Footers -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:Tests.FooterTest@3fc2959f]" started-at="2025-12-16T22:44:48 IST" name="afterMethod" finished-at="2025-12-16T22:44:49 IST" duration-ms="785" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- Tests.FooterTest -->
+      <class name="Tests.ContactUsPageTest">
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:Tests.ContactUsPageTest@6989da5e]" started-at="2025-12-16T22:42:36 IST" name="beforeMethod" finished-at="2025-12-16T22:42:40 IST" duration-ms="3992" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="Contact()[pri:0, instance:Tests.ContactUsPageTest@6989da5e]" started-at="2025-12-16T22:42:40 IST" name="Contact" finished-at="2025-12-16T22:42:51 IST" duration-ms="10940" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Contact -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:Tests.ContactUsPageTest@6989da5e]" started-at="2025-12-16T22:42:51 IST" name="afterMethod" finished-at="2025-12-16T22:42:51 IST" duration-ms="157" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- Tests.ContactUsPageTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
